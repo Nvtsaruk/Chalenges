@@ -1,17 +1,18 @@
 body {
     background-color: hsl(212, 45%, 89%);
     font-family: 'Outfit', sans-serif;
+    padding-top:120px;
 }
 
-main {
+
+.main_content {
     background-color: white;
     width: 322px;
     border-radius: 20px;
     margin: auto;
     text-align: center;
 }
-
-div {
+.attribution {
     display: flex;
     justify-content: center;
 }
